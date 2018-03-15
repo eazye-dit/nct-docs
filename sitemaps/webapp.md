@@ -15,3 +15,4 @@
   * Delete appointment
   * Edit appointment
 * Mechanic (is reachable from schedule or search)
+* Test result (is reachable from search)
